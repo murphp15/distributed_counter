@@ -4,6 +4,12 @@
 	<artifactId>client-impl</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
+	<parent>
+		<groupId>com.paul.demo</groupId>
+		<artifactId>root</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+
 	<properties>
 		<glassfish.version>2.5</glassfish.version>
 	</properties>
